@@ -65,3 +65,4 @@ class BollingerRsiMeanReversion(BaseStrategy):
         data["signal"] = signals
         data["position_size"] = np.where(signals == 1, 0.90, 0.0)
         return data
+

@@ -75,3 +75,4 @@ class MarketDataLoader:
 
 
 data_loader = MarketDataLoader()
+

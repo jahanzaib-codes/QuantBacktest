@@ -87,3 +87,4 @@ class WalkForwardOptimizer:
             "avg_out_of_sample_sharpe": round(np.mean([w["oos_sharpe"] for w in windows]), 2),
             "windows": windows
         }
+

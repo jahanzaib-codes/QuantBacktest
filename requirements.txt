@@ -13,3 +13,4 @@ loguru>=0.7.0
 # Testing (Local Only)
 pytest>=8.0.0
 pytest-asyncio>=0.23.0
+

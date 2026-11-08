@@ -114,3 +114,4 @@ class BacktestEngine:
             "trades": trades,
             "dataframe": df
         }
+

@@ -66,3 +66,4 @@ class MonteCarloSimulator:
             "ruin_probability_30pct": round((ruin_30pct_count / self.n_simulations) * 100.0, 2),
             "ruin_probability_50pct": round((ruin_50pct_count / self.n_simulations) * 100.0, 2)
         }
+

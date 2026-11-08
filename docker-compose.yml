@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  quantbacktest:
+    build: .
+    container_name: quantbacktest-suite
+    restart: "no"
+    environment:
+      - INITIAL_CAPITAL=100000.0
+    env_file:
+      - .env.example

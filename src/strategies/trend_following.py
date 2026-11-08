@@ -51,3 +51,4 @@ class EmaBreakoutStrategy(BaseStrategy):
         data["signal"] = signals
         data["position_size"] = np.where(signals == 1, 0.95, 0.0)
         return data
+

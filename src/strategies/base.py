@@ -18,3 +18,4 @@ class BaseStrategy(ABC):
         - 'position_size': fraction of equity (0.0 to 1.0)
         """
         pass
+

@@ -33,3 +33,4 @@ class BacktestSettings(BaseModel):
 
 
 settings = BacktestSettings()
+

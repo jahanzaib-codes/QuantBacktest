@@ -37,3 +37,4 @@ tests/
 .pytest_cache/
 .coverage
 htmlcov/
+
