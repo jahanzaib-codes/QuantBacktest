@@ -15,7 +15,6 @@
 I develop production-grade algorithmic backtesting platforms, high-frequency execution engines, and risk models for quant funds, prop desks, and private syndicates.
 * 💬 **Telegram:** [@JanzebBlockdev](https://t.me/JanzebBlockdev)
 * 💼 **Fiverr Profile:** [Verified Quantitative Developer (Fiverr)](https://www.fiverr.com/jahanzaib313110)
-* 📧 **Email:** `jahanzaibchanna70@gmail.com`
 
 ---
 
@@ -189,5 +188,4 @@ Distributed under the **MIT License**. See `LICENSE` for details.
 * **GitHub:** [@jahanzaib-codes](https://github.com/jahanzaib-codes)
 * **Fiverr:** [Hire for Quant & Trading Bot Development](https://www.fiverr.com/jahanzaib313110)
 * **Telegram:** [@JanzebBlockdev](https://t.me/JanzebBlockdev)
-* **Email:** `jahanzaibchanna70@gmail.com`
 
