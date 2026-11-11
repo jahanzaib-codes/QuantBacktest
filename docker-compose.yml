@@ -9,3 +9,4 @@ services:
       - INITIAL_CAPITAL=100000.0
     env_file:
       - .env.example
+
